@@ -3,6 +3,9 @@
     "config:base"
   ],
   "ignoreDeps": [
-    "hibernate-validator"
+    "hibernate-validator",
+    "swagger-core",
+    "swagger-jaxrs2-jakarta",
+    "swagger-integration"
   ]
 }
