@@ -45,17 +45,6 @@
         <module>stingray-parent-jdk8</module>
         <module>stingray-application-jdk8</module>
         <module>stingray-application-test-jdk8</module>
-        <module>stingray-parent</module>
-        <module>stingray-application</module>
-        <module>stingray-application-test</module>
-        <module>stingray-application-security</module>
-        <module>stingray-security</module>
-        <module>stingray-security-test</module>
-        <module>stingray-sql</module>
-        <module>stingray-sql-test</module>
-        <module>stingray-http-client</module>
-        <module>stingray-http-client-apache</module>
-        <module>samples</module>
     </modules>
 
     <dependencyManagement>
