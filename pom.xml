@@ -7,9 +7,9 @@
     <version>1.6.13-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>Stingray-Project</name>
-    <description>Stingray-Project</description>
-    <url>https://github.com/Cantara/stingray</url>
+    <name>Stingray-Project-JDK8</name>
+    <description>Stingray-Project-JDK8</description>
+    <url>https://github.com/Cantara/stingray-jdk8</url>
     <inceptionYear>2021</inceptionYear>
 
     <properties>
