@@ -4,7 +4,7 @@
 
     <groupId>no.cantara.stingray</groupId>
     <artifactId>stingray-project-jdk8</artifactId>
-    <version>1.7.2-SNAPSHOT</version>
+    <version>1.7.2</version>
     <packaging>pom</packaging>
 
     <name>Stingray-Project-JDK8</name>
@@ -38,7 +38,7 @@
         <connection>scm:git:git://github.com/Cantara/stingray-jdk8.git</connection>
         <developerConnection>scm:git:git@github.com:Cantara/stingray-jdk8.git</developerConnection>
         <url>https://github.com/Cantara/stingray-jdk8/tree/master</url>
-        <tag>HEAD</tag>
+        <tag>stingray-project-jdk8-1.7.2</tag>
     </scm>
 
     <modules>
